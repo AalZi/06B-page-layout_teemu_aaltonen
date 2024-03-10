@@ -1,0 +1,37 @@
+
+header {
+    background-color: darkgray;
+    text-align: center;
+    padding: 60px;
+
+}
+.horizontal { 
+    background-color: beige;
+    text-align: center;
+    display: inline;
+}
+.red:hover {
+    color: red;
+}
+.vertical {
+    float: left;
+    width: 20%;
+    background-color: bisque;
+    height: 500px;
+    padding-top: 30px;
+}
+.paateksti {
+    float: inline-start;
+    background-color: dimgrey; 
+    height: 500px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 30px;
+}
+footer{
+    background-color: grey;
+    padding-inline: 400px;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
